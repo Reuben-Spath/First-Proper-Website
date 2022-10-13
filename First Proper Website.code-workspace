@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"name": "First Proper Website",
+		"path": "."
+	},
+	{
+		"path": "../Light Bulb Website"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "First Proper Website"
+  }
+}
